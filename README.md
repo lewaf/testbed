@@ -1,1 +1,2 @@
 # testbed
+enact-admin test
